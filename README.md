@@ -1,6 +1,6 @@
-![](image)
+![](https://github.com/pkbparesh15/pkbparesh15/blob/main/LinkedIn%20Cover.jpg)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/pareshkumarbehura/" target="_blank"> Paresh Kumar Behura </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<img width="40%" align="right"   src="https://github.com/VivekMaharana87/vivekmaharana87/blob/main/workbench.svg" >
+<img width="40%" align="right"   src="https://github.com/pkbparesh15/pkbparesh15/blob/main/workbench.svg" >
 
 A bit about Myself, I am <b>Paresh Kumar Behura</b> pursuing my <b>Computer Science Degree</b> from Institute of Technical Education and Research, As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
 
@@ -78,4 +78,4 @@ Known Languages: Python, Java, Html, JavaScript, and CSS.
   </tr>
 </table>
 
-![](https://github.com/VivekMaharana87/vivekmaharana87/blob/main/footer.png)
+![](https://github.com/pkbparesh15/pkbparesh15/blob/main/footer.png)
