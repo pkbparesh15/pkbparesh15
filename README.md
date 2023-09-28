@@ -2,7 +2,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/pareshkumarbehura/" target="_blank"> Paresh Kumar Behura </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/pkbparesh15/pkbparesh15/blob/main/workbench.svg" >
 
-A bit about Myself, I am <b>Paresh Kumar Behura</b> pursuing my <b>Computer Science Degree</b> from Institute of Technical Education and Research, As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
+A bit about Myself, I am <b>Paresh Kumar Behura</b> graduated with <b>Computer Science Degree</b> from Institute of Technical Education and Research, As of now, I am Working in <b>Ernst & Young</b> as a <b>Senior Data Analyst</b> and focusing on developing my Analytical skills but still I wish to explore many fields. ⚡
 
 <h3 align="center"> Passionate Digital Illustrator | Data Analyst </h3>
 
@@ -11,8 +11,8 @@ A bit about Myself, I am <b>Paresh Kumar Behura</b> pursuing my <b>Computer Scie
 
 <h1>💻 Technical Skills 🛠</h1>
   
-I have learned web-development and having knowledge of HTML,CSS & Javascript and ReactJs. I have Worked on Supervised and Unsupervised Machine learning, ML Algorithms(Linear regression, K-means and random forest). Have explored and built projects using datasets of scikit-learn, Kaggle and keras. Tech: Data Science, Machine learning, Microsoft Azure, Deep learning, Google cloud, ReactJs, NodeJs, Tensor Flow, SQL.
-Known Languages: Python, Java, Html, JavaScript, and CSS.
+I have learned web-development and having knowledge of HTML,CSS & Javascript and NodeJs. I have Worked on Supervised and Unsupervised Data Analytics, ML Algorithms. Have explored and built projects using datasets of Kaggle, keras and Self-made data. Tech: Data Science, Machine learning, Microsoft Azure, Salesforce, BigData, Google cloud, ReactJs, NodeJs, Tensor Flow, SQL.
+Known Languages: Python, Java, C++, C, Html, JavaScript, and CSS.
 
 <p align="center"> 
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -33,6 +33,7 @@ Known Languages: Python, Java, Html, JavaScript, and CSS.
     <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-4285F4?style=for-the-badge&logo=Salesforce&logoColor=white" />
     <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
