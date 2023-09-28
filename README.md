@@ -21,7 +21,6 @@ Known Languages: Python, Java, C++, C, Html, JavaScript, and CSS.
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
- <img alt="scikit learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -37,6 +36,9 @@ Known Languages: Python, Java, C++, C, Html, JavaScript, and CSS.
     <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+    <img alt="Alteryx" src="https://img.shields.io/badge/Alteryx-0078D4?style=for-the-badge&logo=Alteryx&logoColor=white" />
+    <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-0078D4?style=for-the-badge&logo=PowerBI&logoColor=white" />
+    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-0078D4?style=for-the-badge&logo=Tableau&logoColor=white" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkbparesh15" alt="pkbparesh15" /></a> </p>
