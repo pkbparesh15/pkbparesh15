@@ -11,7 +11,7 @@ A bit about Myself, I am <b>Paresh Kumar Behura</b> graduated with <b>Computer S
 
 <h1>💻 Technical Skills 🛠</h1>
   
-I have learned web-development and having knowledge of HTML,CSS & Javascript and NodeJs. I have Worked on Supervised and Unsupervised Data Analytics, ML Algorithms. Have explored and built projects using datasets of Kaggle, keras and Self-made data. Tech: Data Science, Machine learning, Microsoft Azure, Salesforce, BigData, Google cloud, ReactJs, NodeJs, Tensor Flow, SQL.
+I have learned web-development and having knowledge of HTML,CSS & Javascript and NodeJs. I have Worked on Supervised and Unsupervised Data Analytics, ML Algorithms. Have explored and built projects using datasets of Kaggle, keras and Self-made data. Tech: Data Science, Machine learning, Microsoft Azure, Salesforce, BigData, Google cloud, ReactJs, NodeJs, Tensor Flow, SQL, Alteryx.
 Known Languages: Python, Java, C++, C, Html, JavaScript, and CSS.
 
 <p align="center"> 
@@ -34,11 +34,11 @@ Known Languages: Python, Java, C++, C, Html, JavaScript, and CSS.
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-4285F4?style=for-the-badge&logo=Salesforce&logoColor=white" />
     <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img alt="Alteryx" src="https://img.shields.io/badge/Alteryx-0065A8?style=for-the-badge&logo=Alteryx&logoColor=white" />
+    <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-750985?style=for-the-badge&logo=PowerBI&logoColor=white" />
+    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-5B8BA1?style=for-the-badge&logo=Tableau&logoColor=white" />
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-    <img alt="Alteryx" src="https://img.shields.io/badge/Alteryx-0078D4?style=for-the-badge&logo=Alteryx&logoColor=white" />
-    <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-0078D4?style=for-the-badge&logo=PowerBI&logoColor=white" />
-    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-0078D4?style=for-the-badge&logo=Tableau&logoColor=white" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkbparesh15" alt="pkbparesh15" /></a> </p>
